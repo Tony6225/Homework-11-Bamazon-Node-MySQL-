@@ -1,9 +1,8 @@
-## Homework-11-Bamazon-Node-MySQL-
-Amazon-like storefront that uses Node to adjust values in a MySQL table
+# Homework-11-Bamazon-Node-MySQL-
 
 ### Description
 
-This application implements a simple command line based storefront using the npm [inquirer](https://www.npmjs.com/package/inquirer) package and the MySQL database backend together with the npm [mysql](https://www.npmjs.com/package/mysql) package.
+Amazon-like storefront that uses Node to adjust values in a MySQL table
 
 ### MySQL Database Setup
 
