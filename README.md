@@ -10,7 +10,7 @@ In order to run this application, you should have the MySQL database already set
 
 In order to run the customer and manager interfaces, the following NPMs must be installed:
 
-	- nquirer
+	- inquirer
     - mySQL
     - console.table
 
